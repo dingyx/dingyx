@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dingyx
-- 🌱 I’m currently learning kotlin
+- 🌱 My Blog is https://dingyx.github.io
 - 📫 How to reach me dyx1222@gmail.com
 <!---
 dingyx/dingyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
